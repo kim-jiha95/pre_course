@@ -24,5 +24,5 @@
 ----------------------
 [딥러닝 용어 정리, 클론 코딩, 딥러닝 순정파 & 역전파 계산](http:/https://github.com/kim-jiha95/pre_course/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
 
-[위의 파일이 열리지 않는다면 이 방식으로 업로드 해주세요. ->] [4주차 과제.nbviewer](https://gist.github.com/kim-jiha95/175002f5549ac756b0be440a016473f6)(https://gist.github.com/kim-jiha95/e91c87cc48afe87d8b5f8c0e97b74a90)
+[위의 파일이 열리지 않는다면 이 방식으로 업로드 해주세요. ->] [4주차 과제.nbviewer](https://gist.github.com/kim-jiha95/e91c87cc48afe87d8b5f8c0e97b74a90)
 
